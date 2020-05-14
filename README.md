@@ -9,7 +9,7 @@ cd Download-directory (Downloads)
 
 cd fake-virus-master
 
-javac Minecraft-22.0.java
+javac Minecraft-220.java
 
 javac juego
 
