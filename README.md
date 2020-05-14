@@ -7,7 +7,7 @@ Exetcute this from the terminal .
 
 cd Download-directory (Downloads)
 
-cd fake-virus
+cd fake-virus-master
 
 javac Minecraft-22.0.java
 
