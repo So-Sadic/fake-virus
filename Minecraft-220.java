@@ -2,10 +2,7 @@ import javax.swing.JOptionPane;
 import javax.swing.*;
 import javax.swing.JFrame;
 import java.awt.event.*;
-import pop.java;
 
-package JApplet;
- 
     public static void main(String[] args)
     {
         System.out.println("There's an virus");//Opcion 1
